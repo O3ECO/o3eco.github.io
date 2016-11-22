@@ -25,7 +25,7 @@
     "versionPublish": "3.9.0",
     "publishType": "github",
     "publishPath": "file:///C:/Users/Windows%207/Desktop/ECOLAUNDRY/SITE",
-    "favicon": "@PROJECT_PATH@/assets/images/o3-logo-128x119-86.jpg",
+    "favicon": "file:///C:/Users/didier/Google",
     "noImageResize": "",
     "cookiesAlert": "En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de [Cookies ou autres traceurs] pour vous proposer [Par exemple, des publicités ciblées adaptés à vos centres d’intérêts] et [Par exemple, réaliser des statistiques de visites].<a href='privacy.html'>info cookie</a>.",
     "google-analytics": "",
@@ -643,6 +643,11 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -669,12 +674,7 @@
             "showBullets": false
           },
           "_anchor": "slider3-34",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "social-buttons1",
@@ -2176,6 +2176,13 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "30px",
+              "color": "#3d8eb9",
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box4-2w",
           "_params": {
             "paddingTop": "3",
@@ -2221,14 +2228,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Essayez O3Eco® pendant 30 jours, et si vous n'êtes pas 100% impressionnés par les résultats, il suffit de nous le retourner.</span>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACHETER O3Eco® : 295€ttc<br>Pour chaque achat, nous reverson 10€ à l'association xxx.<br></a>",
-          "_styles": {
-            "SPAN": {
-              "font-size": "30px",
-              "color": "#3d8eb9",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ACHETER O3Eco® : 295€ttc<br>Pour chaque achat, nous reverson 10€ à l'association xxx.<br></a>"
         },
         {
           "_tags": [
